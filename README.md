@@ -4,7 +4,7 @@
 
 ---
 
-## ภาพรวม / Overview !!
+## ภาพรวม / Overview
 
 AetherWeave 2.0 คือระบบเครือข่ายแบบ **Overlay** ที่ทำงานบน Internet เดิม โดยเปลี่ยนจาก Network แบบ "Reactive" ให้กลายเป็น **"Adaptive + Predictive Network"**
 
